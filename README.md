@@ -7,4 +7,4 @@ Next would be a function that takes two string inputs and compares them against 
 The final two functions read back to the words text file to check a manual coded input of a random group of letters. After running its test, the outcome within the terminal will display all of the words that can be created just from that group of letters. Another timestamp indicating processing timeframe can be found at the bottom of both test results within the terminal.
 
 
-PLEASE NOTE: I am only able to run the file by using a debugger. Any help or guidance on this would be greatly appreciated.
+PLEASE NOTE: I am only able to run the file by using a debugger. Screenshot of the full terminal solution that was obtained by running debugger is included within the repository. Any help or guidance on this would be greatly appreciated.
